@@ -1,0 +1,8 @@
+RELEASE = 1
+INTERFACE = 1
+LOGIC = 1
+DATA = "titanic"
+SPLIT = "from-kaggle"
+
+VERSION = f"{RELEASE}.{INTERFACE}.{LOGIC}-{DATA}.{SPLIT}"
+
